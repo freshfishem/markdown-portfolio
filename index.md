@@ -1,5 +1,4 @@
----
-layout: default
+
 
 # <h1> my name is freshfishem and im new<h1>
 <br>
