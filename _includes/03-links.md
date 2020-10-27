@@ -1,1 +1,1 @@
-! [my profile](https://github.com/freshfishem)
+[my profile](https://github.com/freshfishem)
