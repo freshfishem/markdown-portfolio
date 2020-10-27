@@ -1,14 +1,11 @@
 ---
 layout: default
----
 
-{% include 01-name.md %}
+# <h1> my name is freshfishem and im new<h1>
+<br>
+
+! [look at that picture!](https://i.ytimg.com/vi/wY9MQdMCabU/maxresdefault.jpg)
 
 <br>
 
-{% include 02-image.md %}
-
-<br>
-
-{% include 03-links.md %}
-
+! [one day my profile will be useful](https://github.com/freshfishem)
